@@ -8,7 +8,6 @@
 
 
 
-#### 1.0.1. Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
